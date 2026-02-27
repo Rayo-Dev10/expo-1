@@ -9,7 +9,7 @@
 // ==============================
 // 1. Configuración
 // ==============================
-const RutaData = "/assets/data/";
+const RutaData = "./assets/data/";
 
 // Para depurar: deja SOLO 1 archivo.
 // Cuando funcione, agrega los demás.
@@ -275,4 +275,5 @@ Renderizar().catch((Error) => {
       </div>
     `;
   }
+
 });
