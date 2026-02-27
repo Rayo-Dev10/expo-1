@@ -1,0 +1,10 @@
+{
+  "id": "sec-5",
+  "menuText": "5. Sentido común vs ciencia",
+  "menuIcon": "fa-flask",
+  "label": "Julieth Giraldo",
+  "title": "Por qué CO no es 'sentido común': evidencia y método científico",
+  "headerGradientFrom": "rose-500",
+  "headerGradientTo": "pink-600",
+  "bodyHtml": "<p class='text-lg leading-relaxed mb-4'>Se insiste en que administración y CO no deben confundirse con el <strong>sentido común</strong>. Que una idea “suene obvia” (liderazgo, motivación, desempeño) no implica que esté respaldada por evidencia.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 mt-6'><div class='p-4 bg-rose-50 border border-rose-100 rounded-lg'><h3 class='font-bold text-rose-900 mb-2'>Riesgos del sentido común</h3><ul class='list-disc ml-5 text-sm text-rose-900 space-y-1'><li>Se apoya en intuición y experiencias personales.</li><li>Generaliza con evidencia limitada.</li><li>Puede introducir sesgos y decisiones erradas.</li></ul></div><div class='p-4 bg-white border rounded-lg'><h3 class='font-bold text-gray-900 mb-2'>Ventaja del método científico</h3><ul class='list-disc ml-5 text-sm text-gray-700 space-y-1'><li>Formula hipótesis verificables.</li><li>Contrasta teorías con datos.</li><li>Evalúa creencias populares (validar/refutar).</li><li>Mejora decisiones organizacionales con análisis sistemático.</li></ul></div></div><div class='mt-6 p-4 bg-rose-50 border-l-4 border-rose-500 rounded-r-lg'><p class='text-sm text-rose-900 italic'>Conclusión operativa: la experiencia práctica aporta insumos, pero la comprensión más precisa exige evidencia y verificación sistemática.</p></div>"
+}

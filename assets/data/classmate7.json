@@ -1,0 +1,10 @@
+{
+  "id": "sec-7",
+  "menuText": "7. Sentido de causalidad",
+  "menuIcon": "fa-arrows-left-right",
+  "label": "Yersi Loaiza",
+  "title": "Causalidad y correlación: modelos entre personalidad y CO",
+  "headerGradientFrom": "purple-600",
+  "headerGradientTo": "purple-800",
+  "bodyHtml": "<p class='text-lg leading-relaxed mb-4'>Un error frecuente es inferir <strong>causas</strong> a partir de información <strong>correlacional</strong>. La relación entre personalidad y comportamiento organizacional puede adoptar varios sentidos de causalidad y niveles de complejidad.</p><div class='mt-6 p-4 bg-purple-50 border border-purple-100 rounded-lg'><h3 class='font-bold text-purple-900 mb-2'>Modelos posibles de relación</h3><ul class='list-disc ml-5 text-sm text-purple-900 space-y-2'><li><strong>CO–P (sin relación):</strong> no hay relación sistemática, o es demasiado sutil/inestable o está moderada por variables más fuertes.</li><li><strong>P → CO:</strong> ciertos rasgos de personalidad influyen o determinan características del comportamiento organizacional.</li><li><strong>CO → P:</strong> la estructura/procesos organizacionales moldean rasgos y estilos cognitivos (postura más estructuralista).</li><li><strong>P ↔ CO (reciprocidad):</strong> causalidad bidireccional con influencia mutua, pudiendo existir dirección primaria/secundaria.</li><li><strong>Relaciones combinadas:</strong> distintos rasgos y dimensiones del CO se relacionan de manera simultánea (unidireccional, recíproca o nula según el caso).</li><li><strong>Moderación por terceros (Px CO):</strong> personalidad y CO están determinados o modulados por otras variables (individuo, grupo, organización).</li></ul></div><div class='mt-6 p-4 bg-purple-50 border-l-4 border-purple-500 rounded-r-lg'><p class='text-sm text-purple-900'>Idea de cierre: el comportamiento en el trabajo suele ser <strong>multicausal</strong>. Los modelos simples son comprensibles, pero rara vez completos; se requieren explicaciones refinadas que integren variables del individuo, el grupo y la organización.</p></div>"
+}

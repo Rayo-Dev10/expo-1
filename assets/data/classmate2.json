@@ -1,0 +1,10 @@
+{
+  "id": "sec-2",
+  "menuText": "2. Mapa rápido del CO",
+  "menuIcon": "fa-diagram-project",
+  "label": "Dayana castaño",
+  "title": "Síntesis operativa: definición, niveles y áreas",
+  "headerGradientFrom": "indigo-600",
+  "headerGradientTo": "indigo-800",
+  "bodyHtml": "<p class='text-lg leading-relaxed mb-4'>El CO estudia el comportamiento de las personas en el trabajo y dentro de organizaciones, con apoyo de varias disciplinas sociales. Su análisis se organiza por niveles (individuo, grupo y organización) y se traduce en áreas de intervención concretas.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 mt-6'><div class='p-4 bg-indigo-50 border border-indigo-100 rounded-lg'><h3 class='font-bold text-indigo-900 mb-2'>Disciplinas que lo apoyan</h3><ul class='list-disc ml-5 text-sm text-indigo-900 space-y-1'><li>Psicología</li><li>Sociología</li><li>Antropología</li><li>Ciencia política</li></ul></div><div class='p-4 bg-white border rounded-lg'><h3 class='font-bold text-gray-900 mb-2'>Niveles de análisis</h3><ul class='list-disc ml-5 text-sm text-gray-700 space-y-1'><li><strong>Individual:</strong> motivación y personalidad.</li><li><strong>Grupal:</strong> liderazgo y comunicación.</li><li><strong>Organizacional:</strong> estructura y cultura.</li></ul></div></div><div class='mt-6 p-4 bg-indigo-50 border-l-4 border-indigo-500 rounded-r-lg'><h3 class='font-bold text-indigo-900 mb-2'>Áreas principales</h3><ul class='list-disc ml-5 text-sm text-indigo-900 space-y-1'><li>Selección y capacitación.</li><li>Desarrollo organizacional.</li><li>Relaciones laborales.</li><li>Ergonomía.</li></ul><p class='text-sm text-indigo-900 mt-3'>Una <strong>organización</strong> se entiende como un grupo de personas que coopera para lograr objetivos comunes; su función práctica es mejorar el desempeño y el bienestar en el trabajo.</p></div>"
+}

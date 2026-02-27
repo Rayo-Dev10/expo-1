@@ -1,0 +1,10 @@
+{
+  "id": "sec-3",
+  "menuText": "3. Interrogantes y críticas",
+  "menuIcon": "fa-circle-question",
+  "label": "Marolin Hernández",
+  "title": "¿Por qué CO no se asume como 'ciencia' consolidada?",
+  "headerGradientFrom": "teal-600",
+  "headerGradientTo": "teal-800",
+  "bodyHtml": "<p class='text-lg leading-relaxed mb-4'>Se plantea que el CO es un campo relativamente nuevo, con debates sobre su <strong>precisión conceptual</strong> y su estatus disciplinar. La crítica central es que el término puede nombrar una disciplina amplia, pero a veces vaga, más que una ciencia social con fronteras nítidas.</p><div class='mt-6 grid grid-cols-1 md:grid-cols-2 gap-4'><div class='p-4 bg-teal-50 border border-teal-100 rounded-lg'><h3 class='font-bold text-teal-900 mb-2'>Interrogantes fundamentales</h3><ul class='list-disc ml-5 text-sm text-teal-900 space-y-1'><li>¿Es una intersección de teorías o una disciplina propia?</li><li>¿Qué tanto moldea la organización el comportamiento y qué tanto influyen personalidad y cultura?</li><li>¿Cómo varía según tipo de organización (pública/privada, grande/pequeña, antigua/moderna)?</li></ul></div><div class='p-4 bg-white border rounded-lg'><h3 class='font-bold text-gray-900 mb-2'>Críticas recurrentes</h3><ul class='list-disc ml-5 text-sm text-gray-700 space-y-1'><li><strong>Etnocentrismo:</strong> predominio de teorías/casos occidentales y monolingüismo (inglés).</li><li><strong>Déficit teórico:</strong> priorización de aplicación práctica sobre construcción de teoría.</li><li><strong>Lectura no histórica:</strong> campo con “historia breve pero largo pasado”, con riesgo de redescubrirse repetidamente.</li></ul></div></div><div class='mt-6 p-4 bg-teal-50 border-l-4 border-teal-500 rounded-r-lg'><p class='text-sm text-teal-900 italic'>Idea clave: el comportamiento en el trabajo no es exclusivamente dictado por la organización; interactúa con cultura, normas sociales y características individuales.</p></div>"
+}

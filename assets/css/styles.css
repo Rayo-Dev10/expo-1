@@ -1,0 +1,35 @@
+/* Transiciones base para el Intersection Observer */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s cubic-bezier(0.5, 0, 0, 1);
+}
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Trama de fondo sutil y vibrante */
+.bg-pattern {
+  background-color: #f8fafc;
+  background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Suavizado de scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Links del menú móvil */
+.mobile-link {
+  display: block;
+  padding: 0.25rem 0;
+  font-size: 0.95rem;
+  color: #fff;
+  opacity: 0.9;
+}
+.mobile-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
